@@ -1,0 +1,14 @@
+{
+  "queue_url": "http://sqs.us-east-1.localhost.localstack.cloud:4566/000000000000/local-queue",
+  "endpoint_url": "http://localhost:4566",
+
+
+
+  "aws_access_key_id": "YOUR_ACCESS_KEY_ID",
+  "aws_secret_access_key": "YOUR_SECRET_ACCESS_KEY",
+  "region_name": "us-west-2",
+  "queue_name": "local-queue",
+  "max_number_of_messages": 10,
+  "wait_time_seconds": 20,
+  "visibility_timeout": 30
+}
